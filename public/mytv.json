@@ -1,0 +1,9 @@
+{
+    "spider": "./fty.jar;md5;6adeb73add2066fe62257d2337084da2",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途",
+     "sites": [
+       {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+      {"key": "dyxs","name": "电影先生","type": 3,"api": "XPathMac","ext": "https://cdn.jsdelivr.net/gh/Hopeisalwaysthere/housesigma-demo@master/public/dyxs.json","searchable": 1,"quickSearch": 1,"changeable": 0}
+    ]
+  }
